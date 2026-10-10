@@ -218,3 +218,38 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+
+# ==========================================
+# COS802 Network Analysis Project
+# ==========================================
+
+# Large datasets (keep locally, not on GitHub)
+data/raw/
+data/processed/
+*.parquet
+*.csv.gz
+*.txt.gz
+
+# Large trained models and checkpoints
+*.pt
+*.pth
+*.safetensors
+*.bin
+
+# Secrets and environment configuration
+.env.*
+
+# LaTeX / Overleaf temporary files
+*.aux
+*.out
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# Operating system files
+.DS_Store
+Thumbs.db
