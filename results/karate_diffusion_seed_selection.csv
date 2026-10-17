@@ -1,0 +1,6 @@
+Strategy,Selected Seeds,Communities Covered
+random,"[22, 2, 25]",3
+degree,"[33, 0, 32]",2
+betweenness,"[0, 33, 32]",2
+pagerank,"[33, 0, 32]",2
+community,"[0, 31, 33]",3

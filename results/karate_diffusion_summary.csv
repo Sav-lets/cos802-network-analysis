@@ -1,0 +1,6 @@
+strategy,mean_spread,std_spread,min_spread,max_spread,mean_percentage,mean_steps
+betweenness,8.038,2.373,3,18,23.641,1.658
+degree,8.038,2.373,3,18,23.641,1.658
+pagerank,8.038,2.373,3,18,23.641,1.658
+community,7.49,2.503,3,19,22.029,1.738
+random,5.33,2.525,3,16,15.676,1.374
