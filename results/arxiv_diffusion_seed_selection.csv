@@ -1,0 +1,41 @@
+strategy,node idx,title,louvain_community,degree_centrality,pagerank
+Random,14906,exact learning from an honest teacher that answers membership queries,12,0.0002000400080016,5.325419533453057e-05
+Random,128803,make the minority great again first order regret bound for contextual bandits,0,0.0016003200640128,9.300194083188066e-05
+Random,15354,differentially private iterative synchronous consensus,3,0.0012002400480096,0.0001742977093224
+Random,109508,compact hyperplane hashing with bilinear functions,7,0.0008001600320064,0.0001178353244409
+Random,73526,pooling or sampling collective dynamics for electrical flow estimation,10,0.0008001600320064,6.736023765483923e-05
+Random,72727,benefits and pitfalls of the exponential mechanism with applications to hilbert spaces and functional pca,3,0.0008001600320064,6.987917378346577e-05
+Random,116265,orthonet multilayer network data clustering,8,0.001000200040008,5.325419533453057e-05
+Random,15813,minimizing dynamic regret and adaptive regret simultaneously,0,0.0006001200240048,5.325419533453057e-05
+Random,33448,a parallel solver for graph laplacians,10,0.0006001200240048,5.325419533453057e-05
+Random,144877,deja vu an empirical evaluation of the memorization properties of convnets,13,0.0024004800960192,5.687623770926777e-05
+Degree,47283,a tutorial on spectral clustering,8,0.1124224844968993,0.0200746512222002
+Degree,46025,calibrating data to sensitivity in private data analysis,3,0.1072214442888577,0.0195573517819841
+Degree,163659,regret analysis of stochastic and nonstochastic multi armed bandit problems,0,0.0820164032806561,0.0105185963035629
+Degree,69228,iterative hard thresholding for compressed sensing,12,0.054010802160432,0.014543593890195
+Degree,67166,deep residual learning for image recognition,13,0.0492098419683936,0.0022654598056885
+Degree,30293,advances and open problems in federated learning,11,0.0474094818963792,0.0002404557084615
+Degree,1353,adam a method for stochastic optimization,13,0.0438087617523504,0.0030583725085705
+Degree,70166,introduction to online convex optimization,0,0.0408081616323264,0.0043845459497491
+Degree,121245,differentially private empirical risk minimization,3,0.0402080416083216,0.0025411742935639
+Degree,112,rappor randomized aggregatable privacy preserving ordinal response,3,0.0362072414482896,0.0017828721473851
+PageRank,16921,subspace pursuit for compressive sensing signal reconstruction,12,0.0178035607121424,0.0221399176877746
+PageRank,123933,bayesian compressive sensing via belief propagation,12,0.004000800160032,0.0202443589304115
+PageRank,47283,a tutorial on spectral clustering,8,0.1124224844968993,0.0200746512222002
+PageRank,46025,calibrating data to sensitivity in private data analysis,3,0.1072214442888577,0.0195573517819841
+PageRank,67291,a learning theory approach to non interactive database privacy,3,0.0218043608721744,0.0175862038299406
+PageRank,69228,iterative hard thresholding for compressed sensing,12,0.054010802160432,0.014543593890195
+PageRank,146548,exact matrix completion via convex optimization,12,0.02000400080016,0.0115557179306295
+PageRank,64503,what can we learn privately,3,0.0322064412882576,0.0114793636126821
+PageRank,88803,improving neural networks by preventing co adaptation of feature detectors,13,0.007001400280056,0.010770095139817
+PageRank,163659,regret analysis of stochastic and nonstochastic multi armed bandit problems,0,0.0820164032806561,0.0105185963035629
+Community-aware,46025,calibrating data to sensitivity in private data analysis,3,0.1072214442888577,0.0195573517819841
+Community-aware,163659,regret analysis of stochastic and nonstochastic multi armed bandit problems,0,0.0820164032806561,0.0105185963035629
+Community-aware,67166,deep residual learning for image recognition,13,0.0492098419683936,0.0022654598056885
+Community-aware,69228,iterative hard thresholding for compressed sensing,12,0.054010802160432,0.014543593890195
+Community-aware,47283,a tutorial on spectral clustering,8,0.1124224844968993,0.0200746512222002
+Community-aware,13999,sketching as a tool for numerical linear algebra,14,0.0344068813762752,0.001600745006356
+Community-aware,147909,defining and evaluating network communities based on ground truth,10,0.0338067613522704,0.0043842671172936
+Community-aware,30293,advances and open problems in federated learning,11,0.0474094818963792,0.0002404557084615
+Community-aware,58124,feature hashing for large scale multitask learning,4,0.0286057211442288,0.0047354863516052
+Community-aware,79102,an extremal inequality motivated by multiterminal information theoretic problems,9,0.0154030806161232,0.0030173304462354
