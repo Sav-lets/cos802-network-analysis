@@ -1,0 +1,7 @@
+Metric A,Metric B,Shared top-10 nodes,Overlap percentage
+degree_centrality,in_degree,9,90.0
+degree_centrality,betweenness,8,80.0
+degree_centrality,pagerank,4,40.0
+in_degree,betweenness,7,70.0
+in_degree,pagerank,4,40.0
+betweenness,pagerank,4,40.0
