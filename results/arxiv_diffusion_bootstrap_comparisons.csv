@@ -1,0 +1,4 @@
+strategy_a,strategy_b,mean_difference,ci_lower,ci_upper,ci_excludes_zero
+PageRank,Degree,13.65,4.17975,23.470249999999997,True
+PageRank,Community-aware,37.18,25.11975,49.3,True
+Degree,Community-aware,23.53,13.44925,33.46,True
