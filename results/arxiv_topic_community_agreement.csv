@@ -1,0 +1,2 @@
+comparison,n_papers,n_communities,n_topics,NMI,ARI
+Louvain communities vs NMF topics,5000,15,12,0.41647991122036904,0.31569243182313567

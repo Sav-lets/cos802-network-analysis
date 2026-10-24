@@ -1,0 +1,16 @@
+louvain_community,community_size,dominant_topic,dominant_topic_count,dominant_topic_pct,dominant_topic_label
+0,714,3,456,63.86554621848739,Multi-Armed Bandits and Regret
+1,10,9,8,80.0,Subspace Clustering
+2,80,8,26,32.5,Federated Learning
+3,804,1,509,63.30845771144279,Differential Privacy
+4,198,8,59,29.797979797979796,Federated Learning
+5,168,2,124,73.80952380952381,Theoretical Bounds and Complexity
+6,82,1,53,64.63414634146342,Differential Privacy
+7,96,2,44,45.83333333333333,Theoretical Bounds and Complexity
+8,475,9,217,45.68421052631579,Subspace Clustering
+9,183,2,100,54.644808743169406,Theoretical Bounds and Complexity
+10,275,0,111,40.36363636363636,Graph Theory and Spectral Methods
+11,246,8,145,58.94308943089431,Federated Learning
+12,595,4,322,54.11764705882353,Compressed Sensing and Sparse Recovery
+13,617,6,216,35.008103727714754,Deep Learning and Neural Networks
+14,457,10,200,43.7636761487965,Matrix Decomposition and Low-Rank Methods
