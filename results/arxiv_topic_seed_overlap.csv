@@ -1,0 +1,25 @@
+topic_id,comparison,overlap_with_pagerank
+0,Topic-only,0
+0,Topic-aware PageRank,0
+1,Topic-only,0
+1,Topic-aware PageRank,2
+2,Topic-only,0
+2,Topic-aware PageRank,0
+3,Topic-only,0
+3,Topic-aware PageRank,1
+4,Topic-only,0
+4,Topic-aware PageRank,3
+5,Topic-only,0
+5,Topic-aware PageRank,0
+6,Topic-only,0
+6,Topic-aware PageRank,1
+7,Topic-only,0
+7,Topic-aware PageRank,0
+8,Topic-only,0
+8,Topic-aware PageRank,0
+9,Topic-only,0
+9,Topic-aware PageRank,1
+10,Topic-only,0
+10,Topic-aware PageRank,1
+11,Topic-only,0
+11,Topic-aware PageRank,0

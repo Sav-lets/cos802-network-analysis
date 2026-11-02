@@ -1,0 +1,361 @@
+topic_id,strategy,seed_rank,node idx,title,pagerank,topic_weight,combined_score,louvain_community
+0,PageRank-only,1,16921,subspace pursuit for compressive sensing signal reconstruction,0.0221399176877746,0.0,0.6355,12
+0,PageRank-only,2,123933,bayesian compressive sensing via belief propagation,0.0202443589304115,0.0036454292889812,0.8734,12
+0,PageRank-only,3,47283,a tutorial on spectral clustering,0.0200746512222002,0.0399065355049822,0.9701,8
+0,PageRank-only,4,46025,calibrating data to sensitivity in private data analysis,0.0195573517819841,0.0193724116352987,0.9478,3
+0,PageRank-only,5,67291,a learning theory approach to non interactive database privacy,0.0175862038299406,0.0034775325760642,0.8711,3
+0,PageRank-only,6,69228,iterative hard thresholding for compressed sensing,0.014543593890195,0.0009624074138153,0.8067,12
+0,PageRank-only,7,146548,exact matrix completion via convex optimization,0.0115557179306295,0.0,0.6349,12
+0,PageRank-only,8,64503,what can we learn privately,0.0114793636126821,0.0,0.6348,3
+0,PageRank-only,9,88803,improving neural networks by preventing co adaptation of feature detectors,0.010770095139817,0.0,0.6347,13
+0,PageRank-only,10,163659,regret analysis of stochastic and nonstochastic multi armed bandit problems,0.0105185963035629,0.0,0.6346,0
+0,Topic-only,1,53933,spectral sparsification of graphs,0.0029112048019948,0.1287778622501467,0.9944999999999999,10
+0,Topic-only,2,47163,towards scalable spectral sparsification of directed graphs,5.778828036605836e-05,0.1177238298432534,0.7414000000000001,10
+0,Topic-only,3,109669,grass spectral sparsification leveraging scalable spectral perturbation analysis,5.325419533453057e-05,0.1152610489425569,0.60545,10
+0,Topic-only,4,1787,similarity aware spectral sparsification by edge filtering,8.068650514972017e-05,0.1124518132031182,0.8456999999999999,10
+0,Topic-only,5,39318,twice ramanujan sparsifiers,0.0058301855102034,0.1060805326057482,0.9975,10
+0,Topic-only,6,33500,drawing big graphs using spectral sparsification,5.325419533453057e-05,0.1032891346767355,0.60515,10
+0,Topic-only,7,64580,effective resistance preserving directed graph symmetrization,5.325419533453057e-05,0.1016449075947326,0.60505,10
+0,Topic-only,8,129538,graspel graph spectral learning at scale,5.325419533453057e-05,0.1005570099668939,0.60495,8
+0,Topic-only,9,100180,expanders via random spanning trees,0.0016244270908897,0.0995611260392304,0.9904,10
+0,Topic-only,10,128663,when slepian meets fiedler putting a focus on the graph spectrum,7.365757797640559e-05,0.0991177838871187,0.8241499999999999,8
+0,Topic-aware PageRank,1,39318,twice ramanujan sparsifiers,0.0058301855102034,0.1060805326057482,0.9975,10
+0,Topic-aware PageRank,2,129352,graph sparsification by effective resistances,0.0081172961984214,0.0876289075650087,0.9961,10
+0,Topic-aware PageRank,3,53933,spectral sparsification of graphs,0.0029112048019948,0.1287778622501467,0.9944999999999999,10
+0,Topic-aware PageRank,4,167755,nearly linear time algorithms for graph partitioning graph sparsification and solving linear systems,0.0076605764854501,0.0798355485450158,0.9942,10
+0,Topic-aware PageRank,5,100180,expanders via random spanning trees,0.0016244270908897,0.0995611260392304,0.9904,10
+0,Topic-aware PageRank,6,169115,subgraph sparsification and nearly optimal ultrasparsifiers,0.000602241130945,0.0972053845892117,0.978,10
+0,Topic-aware PageRank,7,94793,faster generation of random spanning trees,0.0009397610495036,0.0695875092876252,0.9779,10
+0,Topic-aware PageRank,8,42623,the emerging field of signal processing on graphs extending high dimensional data analysis to networks and other irregular domains,0.0008289475345731,0.0693769258276154,0.976,8
+0,Topic-aware PageRank,9,37195,perfect reconstruction two channel wavelet filter banks for graph structured data,0.000590285730587,0.0762816957928528,0.9733,8
+0,Topic-aware PageRank,10,10523,systematic topology analysis and generation using degree correlations,0.0086234128147394,0.0435724766221039,0.9726,10
+1,PageRank-only,1,16921,subspace pursuit for compressive sensing signal reconstruction,0.0221399176877746,0.0,0.62325,12
+1,PageRank-only,2,123933,bayesian compressive sensing via belief propagation,0.0202443589304115,0.0,0.62315,12
+1,PageRank-only,3,47283,a tutorial on spectral clustering,0.0200746512222002,0.0,0.62305,8
+1,PageRank-only,4,46025,calibrating data to sensitivity in private data analysis,0.0195573517819841,0.1052350726504088,0.9783999999999999,3
+1,PageRank-only,5,67291,a learning theory approach to non interactive database privacy,0.0175862038299406,0.1036118177625991,0.976,3
+1,PageRank-only,6,69228,iterative hard thresholding for compressed sensing,0.014543593890195,0.0037004116104861,0.8210999999999999,12
+1,PageRank-only,7,146548,exact matrix completion via convex optimization,0.0115557179306295,0.0,0.62265,12
+1,PageRank-only,8,64503,what can we learn privately,0.0114793636126821,0.0700750876732512,0.9401,3
+1,PageRank-only,9,88803,improving neural networks by preventing co adaptation of feature detectors,0.010770095139817,0.001101111565604,0.7726999999999999,13
+1,PageRank-only,10,163659,regret analysis of stochastic and nonstochastic multi armed bandit problems,0.0105185963035629,0.0,0.62235,0
+1,Topic-only,1,79121,universally utility maximizing privacy mechanisms,0.0050983967372542,0.1694163044813942,0.9975,3
+1,Topic-only,2,62759,differential privacy by sampling,5.325419533453057e-05,0.1616045596039908,0.60555,3
+1,Topic-only,3,117534,optimizing batch linear queries under exact and approximate differential privacy,0.0001194770606031,0.1561636247694658,0.9067000000000001,3
+1,Topic-only,4,113783,differentially private response mechanisms on categorical data,9.175552119425734e-05,0.1553161507573059,0.8698999999999999,3
+1,Topic-only,5,107532,individual differential privacy a utility preserving formulation of differential privacy guarantees,0.0001018336807691,0.1545590803759884,0.8855999999999999,3
+1,Topic-only,6,92763,differentially private data releasing for smooth queries with synthetic database output,5.325419533453057e-05,0.1509495761999568,0.60515,3
+1,Topic-only,7,121163,optimal error of query sets under the differentially private matrix mechanism,0.0001290235175538,0.150376818204571,0.9132,3
+1,Topic-only,8,90999,low rank mechanism for optimizing batch queries under differential privacy,0.0001610241261406,0.1495043842512333,0.9315,3
+1,Topic-only,9,163804,differential privacy in metric spaces numerical categorical and functional data under the one roof,5.325419533453057e-05,0.1479090300890308,0.60485,3
+1,Topic-only,10,42709,differentially private policy evaluation,8.26157099113222e-05,0.147346604143569,0.8501,0
+1,Topic-aware PageRank,1,79121,universally utility maximizing privacy mechanisms,0.0050983967372542,0.1694163044813942,0.9975,3
+1,Topic-aware PageRank,2,29983,differential privacy via wavelet transforms,0.0031540389975919,0.1360871650506962,0.9924,3
+1,Topic-aware PageRank,3,142965,efficient differentially private point estimators,0.0020910346597271,0.1197591223049493,0.9817,3
+1,Topic-aware PageRank,4,123852,differential privacy an economic method for choosing epsilon,0.0007354739988281,0.1318620245095237,0.9791,3
+1,Topic-aware PageRank,5,46025,calibrating data to sensitivity in private data analysis,0.0195573517819841,0.1052350726504088,0.9783999999999999,3
+1,Topic-aware PageRank,6,112114,extremal mechanisms for local differential privacy,0.0008392469359101,0.1233580155681075,0.9766,3
+1,Topic-aware PageRank,7,55380,an adaptive mechanism for accurate query answering under differential privacy,0.0006424057849996,0.1322696593573988,0.9765999999999999,3
+1,Topic-aware PageRank,8,67291,a learning theory approach to non interactive database privacy,0.0175862038299406,0.1036118177625991,0.976,3
+1,Topic-aware PageRank,9,165024,lower bounds in differential privacy,0.0022980601513465,0.1086859440331115,0.9757,3
+1,Topic-aware PageRank,10,106074,concentrated differential privacy,0.0005132657650789,0.1371061918831614,0.9731000000000001,3
+2,PageRank-only,1,16921,subspace pursuit for compressive sensing signal reconstruction,0.0221399176877746,0.0041650261083823,0.7413,12
+2,PageRank-only,2,123933,bayesian compressive sensing via belief propagation,0.0202443589304115,0.0,0.5948,12
+2,PageRank-only,3,47283,a tutorial on spectral clustering,0.0200746512222002,0.0,0.5947,8
+2,PageRank-only,4,46025,calibrating data to sensitivity in private data analysis,0.0195573517819841,0.0,0.5946,3
+2,PageRank-only,5,67291,a learning theory approach to non interactive database privacy,0.0175862038299406,0.0459475086454765,0.9289000000000001,3
+2,PageRank-only,6,69228,iterative hard thresholding for compressed sensing,0.014543593890195,0.0142111387182396,0.8251,12
+2,PageRank-only,7,146548,exact matrix completion via convex optimization,0.0115557179306295,0.0,0.5943,12
+2,PageRank-only,8,64503,what can we learn privately,0.0114793636126821,0.053549039577819,0.9411,3
+2,PageRank-only,9,88803,improving neural networks by preventing co adaptation of feature detectors,0.010770095139817,0.0059408914484253,0.7592,13
+2,PageRank-only,10,163659,regret analysis of stochastic and nonstochastic multi armed bandit problems,0.0105185963035629,0.0,0.594,0
+2,Topic-only,1,37666,efficient algorithms and lower bounds for robust linear regression,9.047884982969703e-05,0.1783716885728366,0.8675999999999999,5
+2,Topic-only,2,28474,optimal identity testing with high probability,6.331221509235848e-05,0.167282806831664,0.7787,5
+2,Topic-only,3,36107,statistical query lower bounds for robust estimation of high dimensional gaussians and gaussian mixtures,0.0001702677359015,0.1651347401674214,0.9344,5
+2,Topic-only,4,163236,testing conditional independence of discrete distributions,5.816559364730366e-05,0.1611625653477734,0.7433,5
+2,Topic-only,5,129307,tight bounds for learning a mixture of two gaussians,0.0001155626672837,0.1568880839552335,0.9023,5
+2,Topic-only,6,116279,towards optimal moment estimation in streaming and distributed models,5.325419533453057e-05,0.1527660498496313,0.60515,14
+2,Topic-only,7,100554,optimal learning via the fourier transform for sums of independent integer random variables,0.0001272202011644,0.1500356566545271,0.912,5
+2,Topic-only,8,122623,lower bounds for adaptive sparse recovery,0.0001420578316158,0.1490767198931478,0.922,12
+2,Topic-only,9,9906,testing closeness of discrete distributions,0.0004945236371232,0.1480235397784676,0.9738,5
+2,Topic-only,10,161578,testing shape restrictions of discrete distributions,0.0002192359457666,0.1465752465253208,0.9470000000000001,5
+2,Topic-aware PageRank,1,54006,on the geometry of differential privacy,0.0065360663294048,0.1307169928585992,0.9953000000000001,3
+2,Topic-aware PageRank,2,4740,a sparse johnson lindenstrauss transform,0.0045676311457305,0.0935418675381579,0.9821,14
+2,Topic-aware PageRank,3,72688,learning poisson binomial distributions,0.0006408082732455,0.1263932823920258,0.9769,5
+2,Topic-aware PageRank,4,60583,on oblivious ptas s for nash equilibrium,0.0010177885741907,0.0986858195559261,0.975,5
+2,Topic-aware PageRank,5,20920,submodular approximation sampling based algorithms and lower bounds,0.0009989730868643,0.098114900104452,0.9745,5
+2,Topic-aware PageRank,6,9906,testing closeness of discrete distributions,0.0004945236371232,0.1480235397784676,0.9738,5
+2,Topic-aware PageRank,7,131958,fingerprinting codes and the price of approximate differential privacy,0.0005161410147859,0.1389839370276712,0.9736,3
+2,Topic-aware PageRank,8,147942,algorithmic stability for adaptive data analysis,0.0006525937960765,0.1088731402631093,0.9733,3
+2,Topic-aware PageRank,9,10092,the sample complexity of revenue maximization,0.0005098878871007,0.116244072673043,0.9702,0
+2,Topic-aware PageRank,10,113480,sparsity lower bounds for dimensionality reducing maps,0.000474290785229,0.1221646391402871,0.9696,14
+3,PageRank-only,1,16921,subspace pursuit for compressive sensing signal reconstruction,0.0221399176877746,0.0,0.625,12
+3,PageRank-only,2,123933,bayesian compressive sensing via belief propagation,0.0202443589304115,0.0004763352685768,0.7611,12
+3,PageRank-only,3,47283,a tutorial on spectral clustering,0.0200746512222002,0.0,0.6248,8
+3,PageRank-only,4,46025,calibrating data to sensitivity in private data analysis,0.0195573517819841,0.0,0.6247,3
+3,PageRank-only,5,67291,a learning theory approach to non interactive database privacy,0.0175862038299406,0.0,0.6246,3
+3,PageRank-only,6,69228,iterative hard thresholding for compressed sensing,0.014543593890195,0.0042278316275724,0.829,12
+3,PageRank-only,7,146548,exact matrix completion via convex optimization,0.0115557179306295,0.0,0.6244000000000001,12
+3,PageRank-only,8,64503,what can we learn privately,0.0114793636126821,0.0,0.6243000000000001,3
+3,PageRank-only,9,88803,improving neural networks by preventing co adaptation of feature detectors,0.010770095139817,0.0,0.6242,13
+3,PageRank-only,10,163659,regret analysis of stochastic and nonstochastic multi armed bandit problems,0.0105185963035629,0.1638836816945389,0.9964,0
+3,Topic-only,1,145241,modeling human decision making in generalized gaussian multi armed bandits,0.0001383754317304,0.2157704037882609,0.9204,0
+3,Topic-only,2,167517,analysis of thompson sampling for the multi armed bandit problem,0.0033181421200928,0.2074018219875895,0.9954000000000001,0
+3,Topic-only,3,108326,feedback graph regret bounds for thompson sampling and ucb,5.778828036605836e-05,0.1921581803650071,0.7413000000000001,0
+3,Topic-only,4,96349,thompson sampling for contextual bandits with linear payoffs,0.0010382031573426,0.1900866811194643,0.987,0
+3,Topic-only,5,143554,thompson sampling for combinatorial multi armed bandit with probabilistically triggered arms,6.00507238052885e-05,0.1893265645023989,0.7579,0
+3,Topic-only,6,96645,optimal exploration exploitation in a multi armed bandit problem with non stationary rewards,0.0001051060638844,0.1884779126745139,0.8907,0
+3,Topic-only,7,128233,regret bounds for batched bandits,5.325419533453057e-05,0.1871137254854689,0.60505,0
+3,Topic-only,8,138236,regret bounds for stochastic combinatorial multi armed bandits with linear space complexity,5.67419530510904e-05,0.1870895489329172,0.73295,0
+3,Topic-only,9,67359,thompson sampling for budgeted multi armed bandits,9.650187016563217e-05,0.1852370989901589,0.8768,0
+3,Topic-only,10,123446,nonparametric stochastic contextual bandits,7.094223870490605e-05,0.1840322942869294,0.81575,0
+3,Topic-aware PageRank,1,163659,regret analysis of stochastic and nonstochastic multi armed bandit problems,0.0105185963035629,0.1638836816945389,0.9964,0
+3,Topic-aware PageRank,2,167517,analysis of thompson sampling for the multi armed bandit problem,0.0033181421200928,0.2074018219875895,0.9954000000000001,0
+3,Topic-aware PageRank,3,135815,multi armed bandits in metric spaces,0.0028161356419276,0.1562077847314257,0.9898,0
+3,Topic-aware PageRank,4,96349,thompson sampling for contextual bandits with linear payoffs,0.0010382031573426,0.1900866811194643,0.987,0
+3,Topic-aware PageRank,5,88252,contextual bandits with similarity information,0.0012003073724673,0.1490899954324828,0.9821,0
+3,Topic-aware PageRank,6,14181,further optimal regret bounds for thompson sampling,0.0009263489019921,0.154003345024397,0.9807999999999999,0
+3,Topic-aware PageRank,7,63178,learning to optimize via posterior sampling,0.0008267490030108,0.1545427693277803,0.9796,0
+3,Topic-aware PageRank,8,6651,from bandits to experts on the value of side observations,0.0008776709492078,0.1432648785433632,0.9770000000000001,0
+3,Topic-aware PageRank,9,118698,online bandit learning against an adaptive adversary from regret to policy regret,0.001962655867527,0.1106082336056976,0.972,0
+3,Topic-aware PageRank,10,130641,regret bounds for restless markov bandits,0.0006336601009348,0.1406909242214489,0.9705999999999999,0
+4,PageRank-only,1,16921,subspace pursuit for compressive sensing signal reconstruction,0.0221399176877746,0.1702823635773528,0.998,12
+4,PageRank-only,2,123933,bayesian compressive sensing via belief propagation,0.0202443589304115,0.125400808536782,0.9878,12
+4,PageRank-only,3,47283,a tutorial on spectral clustering,0.0200746512222002,0.0,0.62015,8
+4,PageRank-only,4,46025,calibrating data to sensitivity in private data analysis,0.0195573517819841,0.0132745192556931,0.9183,3
+4,PageRank-only,5,67291,a learning theory approach to non interactive database privacy,0.0175862038299406,0.0,0.61995,3
+4,PageRank-only,6,69228,iterative hard thresholding for compressed sensing,0.014543593890195,0.1597531424330618,0.9961,12
+4,PageRank-only,7,146548,exact matrix completion via convex optimization,0.0115557179306295,0.0615634426653073,0.9662,12
+4,PageRank-only,8,64503,what can we learn privately,0.0114793636126821,0.0,0.61965,3
+4,PageRank-only,9,88803,improving neural networks by preventing co adaptation of feature detectors,0.010770095139817,0.0,0.6195499999999999,13
+4,PageRank-only,10,163659,regret analysis of stochastic and nonstochastic multi armed bandit problems,0.0105185963035629,0.0,0.61945,0
+4,Topic-only,1,50826,signal recovery from unlabeled samples,5.325419533453057e-05,0.1969032145447336,0.60565,12
+4,Topic-only,2,166892,construction of a large class of deterministic sensing matrices that satisfy a statistical isometry property,0.0001690352576791,0.1923106387117532,0.9342,12
+4,Topic-only,3,65,improved analysis for subspace pursuit algorithm in terms of restricted isometry constant,7.025701420275975e-05,0.1901948612189382,0.81335,12
+4,Topic-only,4,47369,unified theory for recovery of sparse signals in a general transform domain,5.325419533453057e-05,0.185820407689568,0.6053499999999999,12
+4,Topic-only,5,112383,the importance of phase in complex compressive sensing,5.325419533453057e-05,0.1841408971510955,0.60525,12
+4,Topic-only,6,80854,sub linear time support recovery for compressed sensing using sparse graph codes,5.325419533453057e-05,0.1790746856424114,0.60515,12
+4,Topic-only,7,119218,model based compressive sensing,0.0064668452784855,0.1790639662414233,0.9975,12
+4,Topic-only,8,142397,compressed sensing with nonlinear observations and related nonlinear optimisation problems,6.512574678806173e-05,0.1789696647069991,0.78945,12
+4,Topic-only,9,162330,blind compressed sensing,0.0001728500618484,0.1776775413359508,0.935,12
+4,Topic-only,10,126605,phase transitions for greedy sparse approximation algorithms,0.0002253104601246,0.1776642272751222,0.9481999999999999,12
+4,Topic-aware PageRank,1,16921,subspace pursuit for compressive sensing signal reconstruction,0.0221399176877746,0.1702823635773528,0.998,12
+4,Topic-aware PageRank,2,119218,model based compressive sensing,0.0064668452784855,0.1790639662414233,0.9975,12
+4,Topic-aware PageRank,3,69228,iterative hard thresholding for compressed sensing,0.014543593890195,0.1597531424330618,0.9961,12
+4,Topic-aware PageRank,4,147978,combining geometry and combinatorics a unified approach to sparse signal recovery,0.0047592782539725,0.1682548000093489,0.995,12
+4,Topic-aware PageRank,5,123933,bayesian compressive sensing via belief propagation,0.0202443589304115,0.125400808536782,0.9878,12
+4,Topic-aware PageRank,6,55981,circulant and toeplitz matrices in compressed sensing,0.0017442361838775,0.1509150226522066,0.9862,12
+4,Topic-aware PageRank,7,123813,robust 1 bit compressive sensing via binary stable embeddings of sparse vectors,0.0012756225951795,0.153828958331982,0.9846999999999999,12
+4,Topic-aware PageRank,8,31438,algorithmic linear dimension reduction in the l_1 norm for sparse vectors,0.0058521814792869,0.0900717678442946,0.9752000000000001,12
+4,Topic-aware PageRank,9,161919,restricted isometries for partial random circulant matrices,0.000741610673826,0.1383082400698679,0.9752,12
+4,Topic-aware PageRank,10,42645,block sparse signals uncertainty relations and efficient recovery,0.0007685091481825,0.1319745568059206,0.9745,12
+5,PageRank-only,1,16921,subspace pursuit for compressive sensing signal reconstruction,0.0221399176877746,0.0,0.6144000000000001,12
+5,PageRank-only,2,123933,bayesian compressive sensing via belief propagation,0.0202443589304115,0.0,0.6143000000000001,12
+5,PageRank-only,3,47283,a tutorial on spectral clustering,0.0200746512222002,0.0,0.6142000000000001,8
+5,PageRank-only,4,46025,calibrating data to sensitivity in private data analysis,0.0195573517819841,0.0,0.6141,3
+5,PageRank-only,5,67291,a learning theory approach to non interactive database privacy,0.0175862038299406,0.0,0.614,3
+5,PageRank-only,6,69228,iterative hard thresholding for compressed sensing,0.014543593890195,0.0,0.6139,12
+5,PageRank-only,7,146548,exact matrix completion via convex optimization,0.0115557179306295,0.0,0.6138,12
+5,PageRank-only,8,64503,what can we learn privately,0.0114793636126821,0.0043619132007617,0.8118000000000001,3
+5,PageRank-only,9,88803,improving neural networks by preventing co adaptation of feature detectors,0.010770095139817,0.0062141539774034,0.84,13
+5,PageRank-only,10,163659,regret analysis of stochastic and nonstochastic multi armed bandit problems,0.0105185963035629,0.0,0.6134999999999999,0
+5,Topic-only,1,85551,node centric detection of overlapping communities in social networks,5.325419533453057e-05,0.2375088694811128,0.60565,10
+5,Topic-only,2,85920,self falsifiable hierarchical detection of overlapping communities on social networks,5.325419533453057e-05,0.2144218249220802,0.60555,10
+5,Topic-only,3,52840,node dominance revealing community and core periphery structure in social networks,5.325419533453057e-05,0.2077833286279458,0.60545,10
+5,Topic-only,4,114144,community detection algorithm evaluation using size and hashtags,5.325419533453057e-05,0.2072566564797252,0.6053499999999999,10
+5,Topic-only,5,47164,community structure a comparative evaluation of community detection methods,5.325419533453057e-05,0.2067486294222825,0.60525,8
+5,Topic-only,6,100646,mutual community detection across multiple partially aligned social networks,5.325419533453057e-05,0.2042373326513057,0.60515,8
+5,Topic-only,7,87836,community detection algorithm evaluation with ground truth data,5.325419533453057e-05,0.2029556876353918,0.60505,10
+5,Topic-only,8,69792,detecting cohesive and 2 mode communities in directed and undirected networks,5.325419533453057e-05,0.2021639061426113,0.60495,10
+5,Topic-only,9,62523,community detection via local dynamic interaction,7.519449839066715e-05,0.2018226670135121,0.8285,10
+5,Topic-only,10,133769,impact of dynamic interactions on multi scale analysis of community structure in networks,5.325419533453057e-05,0.199464217606107,0.60475,8
+5,Topic-aware PageRank,1,138398,community structure in large networks natural cluster sizes and the absence of large well defined clusters,0.0053008873048744,0.1796093183340313,0.9952,10
+5,Topic-aware PageRank,2,147909,defining and evaluating network communities based on ground truth,0.0043842671172936,0.1810912503659636,0.9943,10
+5,Topic-aware PageRank,3,15530,empirical comparison of algorithms for network community detection,0.0031855462450486,0.1812522423144346,0.9933000000000001,10
+5,Topic-aware PageRank,4,11786,overlapping community detection in networks the state of the art and comparative study,0.0010395928603392,0.17388000780717,0.9844999999999999,10
+5,Topic-aware PageRank,5,111216,structure and overlaps of communities in networks,0.0007292214313635,0.1987128170073733,0.9822,10
+5,Topic-aware PageRank,6,9177,neighborhoods are good communities,0.0006847737568215,0.154888378764933,0.9772000000000001,10
+5,Topic-aware PageRank,7,10523,systematic topology analysis and generation using degree correlations,0.0086234128147394,0.0545710773357758,0.9752000000000001,10
+5,Topic-aware PageRank,8,149847,de anonymizing social networks,0.0005421840250012,0.1094492680457029,0.9665,3
+5,Topic-aware PageRank,9,75381,differentially private data analysis of social networks via restricted sensitivity,0.0085529211841918,0.0401460853192679,0.9663999999999999,3
+5,Topic-aware PageRank,10,94105,spectral redemption in clustering sparse networks,0.0005111255595196,0.1163382223663466,0.9662,8
+6,PageRank-only,1,16921,subspace pursuit for compressive sensing signal reconstruction,0.0221399176877746,0.0,0.6224,12
+6,PageRank-only,2,123933,bayesian compressive sensing via belief propagation,0.0202443589304115,0.0065560953292886,0.8462000000000001,12
+6,PageRank-only,3,47283,a tutorial on spectral clustering,0.0200746512222002,0.0,0.6222,8
+6,PageRank-only,4,46025,calibrating data to sensitivity in private data analysis,0.0195573517819841,0.0074430068958536,0.8539,3
+6,PageRank-only,5,67291,a learning theory approach to non interactive database privacy,0.0175862038299406,0.0,0.622,3
+6,PageRank-only,6,69228,iterative hard thresholding for compressed sensing,0.014543593890195,0.0,0.6219,12
+6,PageRank-only,7,146548,exact matrix completion via convex optimization,0.0115557179306295,0.0,0.6218,12
+6,PageRank-only,8,64503,what can we learn privately,0.0114793636126821,0.0066059909096828,0.8464,3
+6,PageRank-only,9,88803,improving neural networks by preventing co adaptation of feature detectors,0.010770095139817,0.0974093768590893,0.9893,13
+6,PageRank-only,10,163659,regret analysis of stochastic and nonstochastic multi armed bandit problems,0.0105185963035629,0.0,0.6214999999999999,0
+6,Topic-only,1,29317,recent advances in convolutional neural networks,6.232236539758613e-05,0.1799308469990873,0.7733,13
+6,Topic-only,2,128721,learning bag of features pooling for deep convolutional neural networks,5.325419533453057e-05,0.1687215305834612,0.60555,13
+6,Topic-only,3,33886,deep fried convnets,0.0002343045087607,0.1675189533705976,0.9501,13
+6,Topic-only,4,139898,compression of deep neural networks on the fly,5.325419533453057e-05,0.1642087009398009,0.6053499999999999,13
+6,Topic-only,5,44261,improving efficiency in convolutional neural networks with multilinear filters,5.325419533453057e-05,0.1572537909168271,0.60525,13
+6,Topic-only,6,59254,convolutional kernel networks,0.0001505792054062,0.1567577811332927,0.9271,10
+6,Topic-only,7,71390,weight agnostic neural networks,5.425806316134828e-05,0.1465672582807939,0.7142,13
+6,Topic-only,8,107645,cryptodl deep neural networks over encrypted data,0.000266008568103,0.1449653475175983,0.9561999999999999,13
+6,Topic-only,9,139711,an exploration of parameter redundancy in deep networks with circulant projections,0.0001397361459505,0.1446157570691234,0.9208,13
+6,Topic-only,10,15365,how transferable are features in deep neural networks,0.0003020541084625,0.1438958358006935,0.9601999999999999,13
+6,Topic-aware PageRank,1,61100,intriguing properties of neural networks,0.0023455370615042,0.1414101272380687,0.9923,13
+6,Topic-aware PageRank,2,25208,very deep convolutional networks for large scale image recognition,0.0025257537406058,0.1307135298495093,0.9911000000000001,13
+6,Topic-aware PageRank,3,51364,speech recognition with deep recurrent neural networks,0.0018194594302786,0.1349602801259406,0.9898,13
+6,Topic-aware PageRank,4,88803,improving neural networks by preventing co adaptation of feature detectors,0.010770095139817,0.0974093768590893,0.9893,13
+6,Topic-aware PageRank,5,67166,deep residual learning for image recognition,0.0022654598056885,0.1189148644473635,0.989,13
+6,Topic-aware PageRank,6,22035,going deeper with convolutions,0.0030665729725302,0.1102579504679712,0.9888,13
+6,Topic-aware PageRank,7,46132,visualizing and understanding convolutional networks,0.0064955921393122,0.094491392352573,0.9873,13
+6,Topic-aware PageRank,8,22502,overfeat integrated recognition localization and detection using convolutional networks,0.004175331825845,0.0926394814918743,0.9843,13
+6,Topic-aware PageRank,9,159656,delving deep into rectifiers surpassing human level performance on imagenet classification,0.000904886974885,0.1364475716484865,0.9836,13
+6,Topic-aware PageRank,10,98786,caffe convolutional architecture for fast feature embedding,0.0018863357054412,0.0960463898816391,0.9819,13
+7,PageRank-only,1,16921,subspace pursuit for compressive sensing signal reconstruction,0.0221399176877746,0.0,0.61005,12
+7,PageRank-only,2,123933,bayesian compressive sensing via belief propagation,0.0202443589304115,0.0,0.60995,12
+7,PageRank-only,3,47283,a tutorial on spectral clustering,0.0200746512222002,0.0,0.60985,8
+7,PageRank-only,4,46025,calibrating data to sensitivity in private data analysis,0.0195573517819841,0.0018509672741872,0.7481,3
+7,PageRank-only,5,67291,a learning theory approach to non interactive database privacy,0.0175862038299406,0.0081039826557801,0.8227,3
+7,PageRank-only,6,69228,iterative hard thresholding for compressed sensing,0.014543593890195,0.0145660979644881,0.8712,12
+7,PageRank-only,7,146548,exact matrix completion via convex optimization,0.0115557179306295,0.0298924809223289,0.9219999999999999,12
+7,PageRank-only,8,64503,what can we learn privately,0.0114793636126821,0.0263171419951029,0.9124000000000001,3
+7,PageRank-only,9,88803,improving neural networks by preventing co adaptation of feature detectors,0.010770095139817,0.0,0.60925,13
+7,PageRank-only,10,163659,regret analysis of stochastic and nonstochastic multi armed bandit problems,0.0105185963035629,0.0,0.60915,0
+7,Topic-only,1,84191,beyond convexity stochastic quasi convex optimization,8.498846757074018e-05,0.2074115214389442,0.857,12
+7,Topic-only,2,96230,making gradient descent optimal for strongly convex stochastic optimization,0.0018445773514157,0.2015078225204787,0.992,11
+7,Topic-only,3,12668,logarithmic regret for online gradient descent beyond strong convexity,5.325419533453057e-05,0.1930640809547919,0.60545,0
+7,Topic-only,4,71472,the error feedback framework better rates for sgd with delayed gradients and compressed communication,8.363950075849592e-05,0.1810527026260642,0.8529,11
+7,Topic-only,5,164962,stochastic gradient descent for non smooth optimization convergence results and optimal averaging schemes,0.0006688694816853,0.1795794130165772,0.9812,11
+7,Topic-only,6,43235,painless stochastic gradient interpolation line search and convergence rates,5.325419533453057e-05,0.1787463987651712,0.60515,13
+7,Topic-only,7,167762,online convex optimization in the bandit setting gradient descent without a gradient,0.0056303239472306,0.1720044891514567,0.9972000000000001,0
+7,Topic-only,8,40428,revisiting projection free optimization for strongly convex constraint sets,5.325419533453057e-05,0.1662105104206913,0.60495,12
+7,Topic-only,9,130457,projection free online learning,0.0004624078904139,0.1640179735689584,0.9725999999999999,12
+7,Topic-only,10,33792,minimax optimal online stochastic learning for sequences of convex functions under sub gradient observation failures,5.325419533453057e-05,0.1618462748198149,0.60475,0
+7,Topic-aware PageRank,1,167762,online convex optimization in the bandit setting gradient descent without a gradient,0.0056303239472306,0.1720044891514567,0.9972000000000001,0
+7,Topic-aware PageRank,2,1353,adam a method for stochastic optimization,0.0030583725085705,0.1455906919947189,0.9922,13
+7,Topic-aware PageRank,3,96230,making gradient descent optimal for strongly convex stochastic optimization,0.0018445773514157,0.2015078225204787,0.992,11
+7,Topic-aware PageRank,4,94925,better mini batch algorithms via accelerated gradient methods,0.0036348169071812,0.1165373475987727,0.9884999999999999,11
+7,Topic-aware PageRank,5,82873,optimal distributed online prediction using mini batches,0.0038964473833087,0.1132290774099532,0.9875,11
+7,Topic-aware PageRank,6,81729,optimization with sparsity inducing penalties,0.003096043839507,0.108646244679081,0.9851,12
+7,Topic-aware PageRank,7,168897,on the universality of online mirror descent,0.0014351416966907,0.1272614186551339,0.9841,0
+7,Topic-aware PageRank,8,81674,adaptive bound optimization for online convex optimization,0.0009375034768604,0.1321470424341281,0.9815,0
+7,Topic-aware PageRank,9,164962,stochastic gradient descent for non smooth optimization convergence results and optimal averaging schemes,0.0006688694816853,0.1795794130165772,0.9812,11
+7,Topic-aware PageRank,10,70166,introduction to online convex optimization,0.0043845459497491,0.0883579601760311,0.9784999999999999,0
+8,PageRank-only,1,16921,subspace pursuit for compressive sensing signal reconstruction,0.0221399176877746,0.0,0.59395,12
+8,PageRank-only,2,123933,bayesian compressive sensing via belief propagation,0.0202443589304115,0.0112748578233027,0.7936000000000001,12
+8,PageRank-only,3,47283,a tutorial on spectral clustering,0.0200746512222002,0.0,0.59375,8
+8,PageRank-only,4,46025,calibrating data to sensitivity in private data analysis,0.0195573517819841,0.0010884673386494,0.6980999999999999,3
+8,PageRank-only,5,67291,a learning theory approach to non interactive database privacy,0.0175862038299406,0.0,0.59355,3
+8,PageRank-only,6,69228,iterative hard thresholding for compressed sensing,0.014543593890195,0.0,0.59345,12
+8,PageRank-only,7,146548,exact matrix completion via convex optimization,0.0115557179306295,0.0,0.59335,12
+8,PageRank-only,8,64503,what can we learn privately,0.0114793636126821,0.0184785679217758,0.8405,3
+8,PageRank-only,9,88803,improving neural networks by preventing co adaptation of feature detectors,0.010770095139817,0.0023232869364515,0.71,13
+8,PageRank-only,10,163659,regret analysis of stochastic and nonstochastic multi armed bandit problems,0.0105185963035629,0.0,0.59305,0
+8,Topic-only,1,68974,evaluation framework for large scale federated learning,5.325419533453057e-05,0.1776500663923275,0.60565,11
+8,Topic-only,2,49130,privacyfl a simulator for privacy preserving and secure federated learning,5.325419533453057e-05,0.1774919643391345,0.60555,11
+8,Topic-only,3,56464,towards federated learning at scale system design,0.0002664103569577,0.1754074692607213,0.9568000000000001,11
+8,Topic-only,4,7071,applied federated learning improving google keyboard query suggestions,0.0001333332435009,0.1730408057545334,0.9169,11
+8,Topic-only,5,30293,advances and open problems in federated learning,0.0002404557084615,0.1700785008791361,0.9511000000000001,11
+8,Topic-only,6,156022,enhancing the privacy of federated learning with sketching,5.649644990256247e-05,0.1678119414985105,0.7318,11
+8,Topic-only,7,10270,a survey on federated learning systems vision hype and reality for data privacy and protection,5.325419533453057e-05,0.1671859244894863,0.60505,11
+8,Topic-only,8,63123,incentive design for efficient federated learning in mobile networks a contract theory approach,5.967327952912109e-05,0.1645094414013514,0.7531000000000001,11
+8,Topic-only,9,2471,model pruning enables efficient federated learning on edge devices,5.608799847923543e-05,0.1637944854635714,0.72675,11
+8,Topic-only,10,114945,federated learning challenges methods and future directions,0.0001719208758201,0.1628871324725521,0.9345,11
+8,Topic-aware PageRank,1,100147,communication efficient learning of deep networks from decentralized data,0.0016240590135948,0.1291016723139072,0.9852,11
+8,Topic-aware PageRank,2,34735,federated learning strategies for improving communication efficiency,0.0006998992989669,0.1403446319572146,0.9788,11
+8,Topic-aware PageRank,3,165686,federated optimization distributed machine learning for on device intelligence,0.0005130297095859,0.1447930676671231,0.9727,11
+8,Topic-aware PageRank,4,87652,stealing machine learning models via prediction apis,0.0006788412163833,0.0891610859220807,0.9662,13
+8,Topic-aware PageRank,5,134013,sok security and privacy in machine learning,0.0009183515238577,0.0767482935444273,0.9638,13
+8,Topic-aware PageRank,6,77825,secure k nearest neighbor query over encrypted data in outsourced environments,0.0006516527358913,0.0858613227211721,0.9630000000000001,7
+8,Topic-aware PageRank,7,99598,practical secure aggregation for federated learning on user held data,0.0003677739366646,0.1219741884535576,0.9611000000000001,11
+8,Topic-aware PageRank,8,166467,tensorflow a system for large scale machine learning,0.0005236653366881,0.0894409085148938,0.9606,13
+8,Topic-aware PageRank,9,56464,towards federated learning at scale system design,0.0002664103569577,0.1754074692607213,0.9568000000000001,11
+8,Topic-aware PageRank,10,165769,federated multi task learning,0.0002935735643196,0.139877975348733,0.9561999999999999,11
+9,PageRank-only,1,16921,subspace pursuit for compressive sensing signal reconstruction,0.0221399176877746,0.0090707719915242,0.8257,12
+9,PageRank-only,2,123933,bayesian compressive sensing via belief propagation,0.0202443589304115,0.0,0.6114,12
+9,PageRank-only,3,47283,a tutorial on spectral clustering,0.0200746512222002,0.1136185857536612,0.9896,8
+9,PageRank-only,4,46025,calibrating data to sensitivity in private data analysis,0.0195573517819841,0.0110471745211003,0.843,3
+9,PageRank-only,5,67291,a learning theory approach to non interactive database privacy,0.0175862038299406,0.0168826643553078,0.8788,3
+9,PageRank-only,6,69228,iterative hard thresholding for compressed sensing,0.014543593890195,0.0,0.611,12
+9,PageRank-only,7,146548,exact matrix completion via convex optimization,0.0115557179306295,0.0,0.6109,12
+9,PageRank-only,8,64503,what can we learn privately,0.0114793636126821,0.005548605046698,0.7872,3
+9,PageRank-only,9,88803,improving neural networks by preventing co adaptation of feature detectors,0.010770095139817,0.0127680174901778,0.8548,13
+9,PageRank-only,10,163659,regret analysis of stochastic and nonstochastic multi armed bandit problems,0.0105185963035629,0.0,0.6106,0
+9,Topic-only,1,117911,subspace clustering of dimensionality reduced data,5.325419533453057e-05,0.2180060064315719,0.60565,8
+9,Topic-only,2,4611,simultaneous subspace clustering and cluster number estimating based on triplet relationship,5.325419533453057e-05,0.2168988187570077,0.60555,8
+9,Topic-only,3,50119,sparse subspace clustering algorithm theory and applications,0.0012363816161279,0.2099086099597087,0.9886,8
+9,Topic-only,4,131494,scalable and robust sparse subspace clustering using randomized clustering and multilayer graphs,6.078111049074004e-05,0.2087419390414803,0.76125,8
+9,Topic-only,5,103797,robust subspace clustering by cauchy loss function,6.539906595469428e-05,0.2047406843570237,0.7910999999999999,8
+9,Topic-only,6,40919,large scale sparse subspace clustering using landmarks,6.078111049074004e-05,0.2038779999156062,0.76105,8
+9,Topic-only,7,73168,innovation pursuit a new approach to subspace clustering,0.0001545448725405,0.1981549025653984,0.9291,12
+9,Topic-only,8,12005,structured sparse subspace clustering a joint affinity learning and subspace clustering framework,0.000111475943347,0.1973689447740347,0.8979,8
+9,Topic-only,9,36155,a direction search and spectral clustering based approach to subspace clustering,6.971067001131494e-05,0.1967316001485864,0.8098,12
+9,Topic-only,10,128505,learning robust subspace clustering,5.325419533453057e-05,0.1940200326872307,0.60475,8
+9,Topic-aware PageRank,1,47283,a tutorial on spectral clustering,0.0200746512222002,0.1136185857536612,0.9896,8
+9,Topic-aware PageRank,2,50119,sparse subspace clustering algorithm theory and applications,0.0012363816161279,0.2099086099597087,0.9886,8
+9,Topic-aware PageRank,3,57910,turning big data into tiny data constant size coresets for k means pca and projective clustering,0.0005881847313927,0.1578742544240716,0.9755,14
+9,Topic-aware PageRank,4,93536,dimensionality reduction for k means clustering and low rank approximation,0.0012143737453367,0.0861463814092281,0.97,14
+9,Topic-aware PageRank,5,127773,improved distributed principal component analysis,0.0004804726566828,0.1155337402487906,0.9645,14
+9,Topic-aware PageRank,6,126527,a unified framework for approximating and clustering data,0.0008515287455417,0.0778559135216517,0.9621,14
+9,Topic-aware PageRank,7,94874,efficient estimation of word representations in vector space,0.0046307468393257,0.0553851687569798,0.9591000000000001,4
+9,Topic-aware PageRank,8,156432,scalable sparse subspace clustering by orthogonal matching pursuit,0.0002991645181698,0.1435259060560962,0.956,8
+9,Topic-aware PageRank,9,69172,facenet a unified embedding for face recognition and clustering,0.0005826736253213,0.0783954364407749,0.9557,13
+9,Topic-aware PageRank,10,6732,oracle based active set algorithm for scalable elastic net subspace clustering,0.0002460656440097,0.1480515825663733,0.9486,8
+10,PageRank-only,1,16921,subspace pursuit for compressive sensing signal reconstruction,0.0221399176877746,0.0046381674423392,0.8406,12
+10,PageRank-only,2,123933,bayesian compressive sensing via belief propagation,0.0202443589304115,0.0055982203801496,0.8512,12
+10,PageRank-only,3,47283,a tutorial on spectral clustering,0.0200746512222002,0.0,0.6244500000000001,8
+10,PageRank-only,4,46025,calibrating data to sensitivity in private data analysis,0.0195573517819841,0.0,0.62435,3
+10,PageRank-only,5,67291,a learning theory approach to non interactive database privacy,0.0175862038299406,0.0,0.62425,3
+10,PageRank-only,6,69228,iterative hard thresholding for compressed sensing,0.014543593890195,0.0,0.62415,12
+10,PageRank-only,7,146548,exact matrix completion via convex optimization,0.0115557179306295,0.1155214772324676,0.9904999999999999,12
+10,PageRank-only,8,64503,what can we learn privately,0.0114793636126821,0.0,0.62395,3
+10,PageRank-only,9,88803,improving neural networks by preventing co adaptation of feature detectors,0.010770095139817,0.0011642149077494,0.7775,13
+10,PageRank-only,10,163659,regret analysis of stochastic and nonstochastic multi armed bandit problems,0.0105185963035629,0.0,0.62375,0
+10,Topic-only,1,112707,an efficient sparsity preserving online algorithm for low rank approximation,5.325419533453057e-05,0.1943717215974968,0.60565,14
+10,Topic-only,2,3149,subspace orbit randomized decomposition for low rank matrix approximations,5.325419533453057e-05,0.1911465541972102,0.60555,14
+10,Topic-only,3,137624,the singular value decomposition applications and beyond,5.553455443397071e-05,0.1832018194751475,0.7226,14
+10,Topic-only,4,74019,distributed low rank approximation of implicit functions of a matrix,0.0001024477376761,0.180718817805504,0.8865,14
+10,Topic-only,5,114187,algorithms for ell_p low rank approximation,7.681291744723804e-05,0.1789390385895158,0.8367,14
+10,Topic-only,6,75817,low rank approximation and decomposition of large matrices using error correcting codes,6.912349294487781e-05,0.1773300531820589,0.8080499999999999,14
+10,Topic-only,7,116257,cur algorithm for partially observed matrices,6.081100372041021e-05,0.1770746628412195,0.7625,14
+10,Topic-only,8,7433,large scale convex minimization with a low rank constraint,0.0003620024459918,0.1764287131913769,0.9669000000000001,12
+10,Topic-only,9,126087,is input sparsity time possible for kernel low rank approximation,5.737609081773765e-05,0.1759483967126021,0.73735,14
+10,Topic-only,10,133309,tighter low rank approximation via sampling the leveraged element,0.0001228378734639,0.1753192892111598,0.9080999999999999,14
+10,Topic-aware PageRank,1,155813,relative error cur matrix decompositions,0.0050466129015693,0.1683479029668258,0.9959,14
+10,Topic-aware PageRank,2,146548,exact matrix completion via convex optimization,0.0115557179306295,0.1155214772324676,0.9904999999999999,12
+10,Topic-aware PageRank,3,19458,low rank approximation and regression in input sparsity time,0.0022262233604771,0.1526828632147489,0.9903,14
+10,Topic-aware PageRank,4,101499,a simpler approach to matrix completion,0.0043295848592417,0.1256337840096066,0.9897,12
+10,Topic-aware PageRank,5,92164,matrix completion from a few entries,0.0095823439234034,0.110530855498282,0.989,12
+10,Topic-aware PageRank,6,13954,the power of convex relaxation near optimal matrix completion,0.0091562862725546,0.1043060238643362,0.9868,12
+10,Topic-aware PageRank,7,73976,guaranteed rank minimization via singular value projection,0.0029180068635433,0.1206341150430378,0.9864999999999999,12
+10,Topic-aware PageRank,8,158460,robust principal component analysis,0.0046077299477178,0.1085073847483378,0.9858,12
+10,Topic-aware PageRank,9,13999,sketching as a tool for numerical linear algebra,0.001600745006356,0.1290789037546298,0.9847,14
+10,Topic-aware PageRank,10,149294,randomized algorithms for matrices and data,0.0025826106835733,0.1137075881110554,0.9847,14
+11,PageRank-only,1,16921,subspace pursuit for compressive sensing signal reconstruction,0.0221399176877746,0.0,0.63545,12
+11,PageRank-only,2,123933,bayesian compressive sensing via belief propagation,0.0202443589304115,0.0,0.63535,12
+11,PageRank-only,3,47283,a tutorial on spectral clustering,0.0200746512222002,0.0,0.63525,8
+11,PageRank-only,4,46025,calibrating data to sensitivity in private data analysis,0.0195573517819841,0.0006919497174257,0.7862,3
+11,PageRank-only,5,67291,a learning theory approach to non interactive database privacy,0.0175862038299406,0.0,0.63505,3
+11,PageRank-only,6,69228,iterative hard thresholding for compressed sensing,0.014543593890195,0.0,0.63495,12
+11,PageRank-only,7,146548,exact matrix completion via convex optimization,0.0115557179306295,0.0,0.63485,12
+11,PageRank-only,8,64503,what can we learn privately,0.0114793636126821,0.0058196186349617,0.8685,3
+11,PageRank-only,9,88803,improving neural networks by preventing co adaptation of feature detectors,0.010770095139817,0.0,0.6346499999999999,13
+11,PageRank-only,10,163659,regret analysis of stochastic and nonstochastic multi armed bandit problems,0.0105185963035629,0.0158417759510466,0.9320999999999999,0
+11,Topic-only,1,27646,adversarial examples in modern machine learning a review,5.325419533453057e-05,0.2349007037326888,0.60565,13
+11,Topic-only,2,35055,efficient two step adversarial defense for deep neural networks,5.471680340921695e-05,0.2327490631118728,0.7181,13
+11,Topic-only,3,140574,adversarial machine learning at scale,0.0002522434075137,0.2321087803378176,0.9539,13
+11,Topic-only,4,30038,practical black box attacks against machine learning,0.0007710887527233,0.2238148887292791,0.9841,13
+11,Topic-only,5,108090,boosting adversarial attacks with momentum,6.437098216697089e-05,0.2205246128573803,0.7828999999999999,13
+11,Topic-only,6,640,adversarial examples a complete characterisation of the phenomenon,5.471680340921695e-05,0.2123028242605519,0.7177,13
+11,Topic-only,7,32551,magnet a two pronged defense against adversarial examples,0.0001678665690088,0.2107307647646309,0.9334,13
+11,Topic-only,8,78524,blocking transferability of adversarial examples in black box learning systems,6.433739492895424e-05,0.210289899277194,0.7825,13
+11,Topic-only,9,55215,semantic adversarial attacks parametric transformations that fool deep classifiers,5.4118051281072514e-05,0.209492348546296,0.712,13
+11,Topic-only,10,130267,constructing unrestricted adversarial examples with generative models,5.996277202561018e-05,0.2093119430379102,0.7568999999999999,13
+11,Topic-aware PageRank,1,30038,practical black box attacks against machine learning,0.0007710887527233,0.2238148887292791,0.9841,13
+11,Topic-aware PageRank,2,123288,towards evaluating the robustness of neural networks,0.0007167377723328,0.1953425486449071,0.9812000000000001,13
+11,Topic-aware PageRank,3,0,evasion attacks against machine learning at test time,0.0010011093281819,0.1413969645329567,0.979,13
+11,Topic-aware PageRank,4,93487,poisoning attacks against support vector machines,0.001495606496023,0.0985861183578307,0.9756,13
+11,Topic-aware PageRank,5,127259,adversarial examples in the physical world,0.000540598764072,0.1946230975834704,0.9753000000000001,13
+11,Topic-aware PageRank,6,92115,the limitations of deep learning in adversarial settings,0.0009040696567419,0.1244516426980444,0.9745999999999999,13
+11,Topic-aware PageRank,7,119861,membership inference attacks against machine learning models,0.0007681629468025,0.1303510600172283,0.9745,13
+11,Topic-aware PageRank,8,59944,distillation as a defense to adversarial perturbations against deep neural networks,0.0007134054534274,0.1347715751854387,0.974,13
+11,Topic-aware PageRank,9,162885,towards deep neural network architectures robust to adversarial examples,0.0006541723578137,0.142375395638259,0.9733,13
+11,Topic-aware PageRank,10,36054,transferability in machine learning from phenomena to black box attacks using adversarial samples,0.0004367687926604,0.1976203671982493,0.9704999999999999,13
