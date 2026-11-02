@@ -1,0 +1,5 @@
+strategy,initial_communities,mean_communities_reached,mean_additional_communities,mean_unseeded_coverage_pct
+Random,7,7.17,0.17,2.125
+Degree,6,13.62,7.62,84.66666666666666
+PageRank,5,13.53,8.53,85.3
+Community-aware,10,13.79,3.79,75.8
