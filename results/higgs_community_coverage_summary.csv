@@ -1,0 +1,5 @@
+strategy,mean_spread,seed_communities,mean_communities_reached,mean_outside_seed_communities,mean_unassigned
+Community-aware,4541.2,10,87.51,776.55,0.0
+Degree,4801.57,9,87.4,1039.51,0.0
+PageRank,3824.64,4,84.82,1081.51,0.0
+Random,10.58,8,8.31,0.31,0.0
